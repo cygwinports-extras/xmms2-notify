@@ -1,0 +1,4 @@
+category: Audio
+requires: python python-gobject python-gtk2.0 python-musicbrainz2 python-pynotify python-xmmsclient python-xmmsclient-glib
+sdesc: "XMMS2 desktop notification client"
+ldesc: "XMMS2 desktop notification client"

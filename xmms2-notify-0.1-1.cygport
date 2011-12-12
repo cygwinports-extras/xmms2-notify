@@ -1,0 +1,2 @@
+GIT_URI="git://git.xmms.se/xmms2/${PN}.git"
+inherit distutils git
